@@ -19,7 +19,7 @@ CREATE TABLE IF NOT EXISTS `wilaya` (
 
 -- Export de données de la table 213voyage.regions: ~48 rows (environ)
 /*!40000 ALTER TABLE wilaya DISABLE KEYS */;
-INSERT INTO `regions` (`id`, `name`) VALUES
+INSERT INTO `wilaya` (`id`, `name`) VALUES
 	(1, 'Adrar'),
 	(2, 'Chlef'),
 	(3, 'Laghouat'),
