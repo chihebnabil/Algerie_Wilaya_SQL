@@ -1,0 +1,32 @@
+repo_name: chihebnabil/Algerie_Wilaya_SQL
+report_id: 2e9c255ab1506d54eac77a295812c371
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-08T19:17:44+00:00'
+requested_by: chihebnabil
+provider: github
+branch: master
+detected_tools_count: 2
+tools:
+- name: SQL
+  description: It is a domain-specific language used in programming
+  website_url: https://en.wikipedia.org/wiki/SQL
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source_url: https://github.com/chihebnabil/Algerie_Wilaya_SQL/blob/master/wilaya.sql
+  detection_source: wilaya.sql
+  last_updated_by: Chiheb Nabil
+  last_updated_on: 2014-09-07 09:04:49.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/chihebnabil/Algerie_Wilaya_SQL
+  detection_source: Repo Metadata
